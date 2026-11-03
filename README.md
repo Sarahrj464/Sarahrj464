@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4B315F,50:8B5CF6,100:00D4FF&amp;height=230&amp;section=header&amp;text=Sarah%20Murtaza&amp;fontSize=54&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=MERN%20Stack%20Developer%20%7C%20AI%20Integration%20%26%20Automation&amp;descAlignY=60&amp;descSize=16" width="100%" alt="Sarah Murtaza — MERN Stack Developer | AI Integration &amp; Automation"/>
+![Sarah Murtaza - MERN Stack Developer](https://capsule-render.vercel.app/api?type=wave&color=0:4B315F,50:8B5CF6,100:00D4FF&height=230&section=header&text=Sarah%20Murtaza&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20AI%20Integration%20and%20Automation&descAlignY=60&descSize=16)
 
 <br/>
 
