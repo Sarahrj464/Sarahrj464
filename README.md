@@ -257,16 +257,14 @@ I'm continuously improving my engineering skills and exploring technologies that
   <img src="./assets/section-divider.svg" width="100%" alt="Animated purple gradient divider"/>
 </div>
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/Sarahrj464">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarahrj464&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00D4FF&text_color=E6EDF3&rank_icon=github" height="180" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/Sarahrj464">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarahrj464&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E6EDF3&langs_count=8" height="180" alt="Most used programming languages"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Sarahrj464&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00D4FF&text_color=E6EDF3&rank_icon=github" height="180" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarahrj464&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E6EDF3&langs_count=8" height="180" alt="Most used programming languages"/>
 
 <br/><br/>
 
@@ -277,6 +275,8 @@ I'm continuously improving my engineering skills and exploring technologies that
 <div align="center">
   <img src="./assets/section-divider.svg" width="100%" alt="Purple gradient divider"/>
 </div>
+
+
 
 ## 🤝 Let's Connect
 
