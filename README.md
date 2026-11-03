@@ -22,7 +22,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="Animated purple gradient divider"/>
+</div>
 
 ## 👩‍💻 About Me
 
@@ -40,7 +42,9 @@ I enjoy turning ideas into functional products, developing backend systems, and 
 
 **My goal:** Combine full-stack engineering with AI-powered solutions to build useful digital products.
 
----
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="Animated purple gradient divider"/>
+</div>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -93,7 +97,9 @@ I enjoy turning ideas into functional products, developing backend systems, and 
   <p><strong>Git · GitHub · VS Code · Postman · npm · C++</strong></p>
 </div>
 
----
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="Animated purple gradient divider"/>
+</div>
 
 # 🚀 Featured Projects
 
@@ -220,7 +226,9 @@ assets/nova-ai-conversation.png
 
 </div>
 
----
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="Animated purple gradient divider"/>
+</div>
 
 ## 🐍 My GitHub Contribution Journey
 
@@ -230,7 +238,9 @@ assets/nova-ai-conversation.png
 
 </div>
 
----
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="Animated purple gradient divider"/>
+</div>
 
 ## 📚 Currently Exploring
 
@@ -243,26 +253,30 @@ I'm continuously improving my engineering skills and exploring technologies that
 - ⚙️ AI agents and intelligent workflow automation.
 - 🐳 Docker, deployment, and production engineering.
 
----
-
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="Animated purple gradient divider"/>
+</div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/Sarahrj464">
-  <img src="https://img.shields.io/badge/GitHub-Sarahrj464-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarahrj464&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00D4FF&text_color=E6EDF3&rank_icon=github" height="180" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/Sarahrj464">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarahrj464&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E6EDF3&langs_count=8" height="180" alt="Most used programming languages"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/Sarahrj464?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My_Repositories-8B5CF6?style=for-the-badge&logo=github" alt="Explore repositories"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=Sarahrj464&theme=transparent&hide_border=true&background=0D1117&stroke=30363D&ring=8B5CF6&fire=00D4FF&currStreakLabel=8B5CF6&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B9498" width="90%" alt="GitHub contribution streak"/>
 
 </div>
 
----
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="Purple gradient divider"/>
+</div>
 
 ## 🤝 Let's Connect
 
