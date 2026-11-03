@@ -1,19 +1,24 @@
- <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B315F,50:8B5CF6,100:00D4FF&height=230&section=header&text=Sarah%20Murtaza&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20Integration%20%26%20Automation&descAlignY=60&descSize=16" width="100%" alt="Sarah Murtaza — MERN Stack Developer | AI Integration & Automation"/>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Building+Full-Stack+Web+Applications;AI+Integration+%26+Workflow+Automation;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Exploring+Intelligent+AI+Agents" alt="Developer skills animation"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4B315F,50:8B5CF6,100:00D4FF&amp;height=230&amp;section=header&amp;text=Sarah%20Murtaza&amp;fontSize=54&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=MERN%20Stack%20Developer%20%7C%20AI%20Integration%20%26%20Automation&amp;descAlignY=60&amp;descSize=16" width="100%" alt="Sarah Murtaza — MERN Stack Developer | AI Integration &amp; Automation"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=2800&amp;pause=900&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=MERN+Stack+Developer;Building+Full-Stack+Web+Applications;AI+Integration+%26+Workflow+Automation;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Exploring+Intelligent+AI+Agents" alt="Developer skills animation"/>
+
+<br/><br/>
+
 <a href="https://github.com/Sarahrj464">
-<img src="https://img.shields.io/badge/GitHub-Sarahrj464-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Sarahrj464-181717?style=for-the-badge&amp;logo=github" alt="GitHub"/>
 </a>
+
 <a href="https://www.linkedin.com/in/the-sarah-murtaza/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:sarah.murtaza.tech@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -256,13 +261,25 @@ I'm continuously improving my engineering skills and exploring technologies that
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sarahrj464&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sarah's GitHub statistics"/>
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=Sarahrj464&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;icon_color=00D4FF&amp;text_color=C9D1D9"
+  alt="Sarah's GitHub statistics"
+/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarahrj464&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarahrj464&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;text_color=C9D1D9"
+  alt="Most used programming languages"
+/>
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Sarahrj464&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=Sarahrj464&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=8B5CF6&amp;fire=00D4FF&amp;currStreakLabel=8B5CF6"
+  alt="GitHub contribution streak"
+/>
 
 </div>
 
