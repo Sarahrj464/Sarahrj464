@@ -1,0 +1,18 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="8" viewBox="0 0 900 8">
+  <defs>
+    <linearGradient id="track">
+      <stop offset="0%" stop-color="#4B315F"/>
+      <stop offset="50%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#4B315F"/>
+    </linearGradient>
+    <linearGradient id="sweep">
+      <stop offset="0" stop-color="#4B315F" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#C4B5FD"/>
+      <stop offset="1" stop-color="#4B315F" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="2 0" dur="2.5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="4" y="2" rx="2" fill="url(#track)"/>
+  <rect width="900" height="4" y="2" rx="2" fill="url(#sweep)"/>
+</svg>
