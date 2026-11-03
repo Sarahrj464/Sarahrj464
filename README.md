@@ -46,59 +46,52 @@ I enjoy turning ideas into functional products, developing backend systems, and 
 
 ### 🎨 Frontend Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&amp;perline=7" alt="Frontend technologies"/>
-</p>
-
-`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Vite` `Tailwind CSS`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&perline=7" alt="Frontend technologies"/>
+  <p><strong>HTML5 · CSS3 · JavaScript · TypeScript · React · Vite · Tailwind CSS</strong></p>
+</div>
 
 ### ⚙️ Backend Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python&amp;perline=3" alt="Backend technologies"/>
-</p>
-
-`Node.js` `Express.js` `Python` `Flask` `REST APIs`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask&perline=4" alt="Backend technologies"/>
+  <p><strong>Node.js · Express.js · Python · Flask · REST APIs</strong></p>
+</div>
 
 ### 🗄️ Databases & Backend Services
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase&amp;perline=3" alt="Database technologies"/>
-</p>
-
-`MongoDB` `Mongoose` `PostgreSQL` `Supabase`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase&perline=3" alt="Database technologies"/>
+  <p><strong>MongoDB · Mongoose · PostgreSQL · Supabase</strong></p>
+</div>
 
 ### 🤖 AI & Computer Vision
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,opencv&amp;perline=2" alt="AI and computer vision"/>
-</p>
-
-`Google Gemini API` `OpenCV` `AI API Integration` `LLM Applications`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv&perline=2" alt="AI technologies"/>
+  <p><strong>Google Gemini API · OpenCV · AI API Integration · LLM Applications</strong></p>
+</div>
 
 ### 🎨 UI/UX & Design
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=figma&amp;perline=1" alt="Design tools"/>
-</p>
-
-`Figma` `Canva` `Responsive UI Design` `Interface Prototyping`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma&perline=1" alt="Design tools"/>
+  <p><strong>Figma · Canva · Responsive UI Design</strong></p>
+</div>
 
 ### 🚀 DevOps & Deployment
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,vercel,github&amp;perline=3" alt="Deployment and DevOps"/>
-</p>
-
-`Docker` `Docker Compose` `Nginx` `Vercel` `Railway`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,vercel,nginx&perline=3" alt="DevOps tools"/>
+  <p><strong>Docker · Docker Compose · Nginx · Vercel · Railway</strong></p>
+</div>
 
 ### 💻 Development Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&amp;perline=5" alt="Development tools"/>
-</p>
-
-`Git` `GitHub` `VS Code` `Postman` `npm` `C++`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&perline=5" alt="Development tools"/>
+  <p><strong>Git · GitHub · VS Code · Postman · npm · C++</strong></p>
+</div>
 
 ---
 
@@ -252,29 +245,20 @@ I'm continuously improving my engineering skills and exploring technologies that
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=Sarahrj464&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;icon_color=00D4FF&amp;text_color=C9D1D9"
-alt="Sarah's GitHub statistics"
-/>
-
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarahrj464&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;text_color=C9D1D9"
-alt="Most used programming languages"
-/>
+<a href="https://github.com/Sarahrj464">
+  <img src="https://img.shields.io/badge/GitHub-Sarahrj464-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+</a>
 
 <br/><br/>
 
-<img
-width="70%"
-src="https://streak-stats.demolab.com?user=Sarahrj464&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=8B5CF6&amp;fire=00D4FF&amp;currStreakLabel=8B5CF6"
-alt="GitHub contribution streak"
-/>
+<a href="https://github.com/Sarahrj464?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My_Repositories-8B5CF6?style=for-the-badge&logo=github" alt="Explore repositories"/>
+</a>
 
 </div>
 
