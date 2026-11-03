@@ -1,8 +1,8 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:00D4FF&height=230&section=header&text=Sarah%20Murtaza&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=59&descSize=18" width="100%" alt="Sarah Murtaza — MERN Stack Developer and AI Enthusiast" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B315F,50:8B5CF6,100:00D4FF&height=230&section=header&text=Sarah%20Murtaza&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20Integration%20%26%20Automation&descAlignY=60&descSize=16" width="100%" alt="Sarah Murtaza — MERN Stack Developer | AI Integration & Automation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Frontend+%26+Backend+Developer;React+%7C+Node.js+%7C+MongoDB;AI+%26+Computer+Vision+Enthusiast;Building+Modern+Web+Applications" alt="Animated developer skills" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Building+Full-Stack+Web+Applications;AI+Integration+%26+Workflow+Automation;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Exploring+Intelligent+AI+Agents" alt="Developer skills animation"/>
 
 <br/>
 
@@ -13,12 +13,12 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 <a href="mailto:sarah.murtaza.tech@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-**Turning ideas into responsive web applications and intelligent digital experiences.**
+**Building modern web applications and exploring the possibilities of AI-powered automation.**
 
 </div>
 
@@ -26,14 +26,19 @@
 
 ## 👩‍💻 About Me
 
-Hi, I'm **Sarah Murtaza**, a developer passionate about building modern, responsive web applications and exploring AI-powered solutions.
+Hi! I'm **Sarah Murtaza**, a Computer Science student and MERN Stack Developer passionate about building practical, scalable, and user-focused applications.
 
-- 💻 Developing full-stack applications with React, Node.js, Express, and MongoDB.
-- 🎨 Designing responsive, user-friendly interfaces with Tailwind CSS.
-- ⚙️ Building backend services and REST APIs.
-- 🤖 Exploring AI integrations and computer vision with Python and OpenCV.
-- 🚀 Bringing projects to life with Vercel and Railway.
-- 🤝 Open to collaboration, freelance projects, and learning opportunities.
+I enjoy turning ideas into functional products, developing backend systems, and creating intuitive user experiences. I'm also exploring AI integration and workflow automation to build smarter applications.
+
+- 🎓 Computer Science @ University of Central Punjab | Class of 2027
+- 💻 Specializing in MongoDB, Express.js, React, and Node.js.
+- ⚙️ Building REST APIs, authentication systems, and full-stack applications.
+- 🎨 Creating responsive interfaces with React and Tailwind CSS.
+- 🤖 Exploring AI integrations, intelligent agents, and workflow automation.
+- 🐍 Working with Python and OpenCV for AI and computer vision projects.
+- 🚀 Interested in internships, freelance opportunities, and meaningful collaborations.
+
+**My goal:** Combine full-stack engineering with AI-powered solutions to build useful digital products.
 
 ---
 
@@ -42,165 +47,251 @@ Hi, I'm **Sarah Murtaza**, a developer passionate about building modern, respons
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite" alt="HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" alt="Frontend technologies"/>
 </p>
 
-- **Core:** HTML5, CSS3, JavaScript, TypeScript
-- **Frameworks & Styling:** React, Tailwind CSS, Vite
+`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Vite` `Tailwind CSS`
 
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Node.js, Express.js, Python"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" alt="Backend technologies"/>
 </p>
 
-- **Runtime & Frameworks:** Node.js, Express.js, Python
-- **API Development & Testing:** REST APIs, Postman
+`Node.js` `Express.js` `Python` `Flask` `REST APIs`
 
 ### 🗄️ Databases & Backend Services
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,supabase" alt="MongoDB and Supabase"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" alt="Database technologies"/>
 </p>
 
-- **Database:** MongoDB
-- **Backend Platform & Database Services:** Supabase
+`MongoDB` `Mongoose` `PostgreSQL` `Supabase`
 
 ### 🤖 AI & Computer Vision
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,opencv" alt="Python and OpenCV"/>
+<img src="https://skillicons.dev/icons?i=python,opencv" alt="AI and computer vision"/>
 </p>
 
-- Python
-- OpenCV
-- AI API integration
-- Google Gemini API
+`Google Gemini API` `OpenCV` `AI API Integration` `LLM Applications`
 
 ### 🎨 UI/UX & Design
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,canva" alt="Figma and Canva"/>
+<img src="https://skillicons.dev/icons?i=figma,canva" alt="Design tools"/>
 </p>
 
-- Figma
-- Canva
-- Responsive UI design
-- Interface prototyping
+`Figma` `Canva` `Responsive UI Design` `Interface Prototyping`
 
-### 🚀 Deployment & DevOps
+### 🚀 DevOps & Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,vercel,github" alt="Docker, Vercel and GitHub"/>
+<img src="https://skillicons.dev/icons?i=docker,vercel,railway,github" alt="Deployment and DevOps"/>
 </p>
 
-- **Containers:** Docker
-- **Frontend Deployment:** Vercel
-- **Application Deployment:** Railway
-- **Version Control:** Git and GitHub
+`Docker` `Docker Compose` `Vercel` `Railway`
 
-### 💻 Programming & Development Tools
+### 💻 Development Tools
 
-- C++
-- Visual Studio Code
-- npm
-- Postman
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" alt="Development tools"/>
+</p>
+
+`Git` `GitHub` `VS Code` `Postman` `npm` `C++`
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🍽️ 1. QuickByte Café — University Cafeteria POS
+A selection of applications demonstrating my experience in full-stack development, system design, and AI integration.
 
-A full-stack point-of-sale system designed to streamline university cafeteria operations. It brings cashier transactions, kitchen order processing, student meal plans, inventory, and administrative reporting into one application.
+## 🍽️ 1. QuickByte Café POS
 
-**Key Features**
+<sub>University Cafeteria Management & Point-of-Sale System</sub>
 
-- 🔐 **Role-Based Access:** Separate Admin, Cashier, Kitchen, and Student experiences.
-- 🧾 **POS & Payments:** Shopping cart, discounts, multiple payment methods, receipts, and shift reconciliation.
-- 👨‍🍳 **Real-Time Kitchen:** Live order updates and order status tracking.
-- 🎓 **Student Portal:** Menu browsing, meal plan balances, transaction history, and QR-based lookup.
-- 📊 **Admin Dashboard:** Menu, inventory, staff, meal plans, reports, and sales analytics.
-- 📡 **Offline Support:** Queued orders and synchronization when connectivity returns.
-- 🛡️ **Security:** JWT authentication, password hashing, request rate limits, and input validation.
+A full-stack cafeteria management platform designed to streamline university food service operations. It connects cashier transactions, kitchen order processing, student meal plans, inventory, and administrative reporting in one system.
 
-**Tech Stack**
+<!-- Add genuine screenshots here later:
+     assets/quickbyte-cashier.png
+     assets/quickbyte-kitchen.png
+     assets/quickbyte-admin.png
+-->
+
+### ✨ Key Features
+
+- 🔐 **Role-Based Access:** Dedicated Admin, Cashier, Kitchen, and Student experiences.
+- 🧾 **Point of Sale:** Interactive shopping cart and multiple payment methods.
+- 💳 **Payment Management:** Student meal plan deduction and payment processing.
+- 🍳 **Real-Time Kitchen:** Live order synchronization and status tracking using Socket.IO.
+- 🎓 **Student Portal:** Meal plan balances, order history, and QR-based functionality.
+- 📊 **Admin Dashboard:** Sales analytics, inventory management, and operational reporting.
+- 🧾 **Digital Receipts:** Receipt generation and printing.
+
+### 🛠️ Tech Stack
 
 `React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `PostgreSQL` `Supabase` `Socket.IO`
-
-**Deployment:** Vercel + Railway
 
 <div align="center">
 
 <a href="https://github.com/Sarahrj464/university-cafeteria-pos">
-  <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github" alt="View QuickByte Café POS on GitHub"/>
+<img src="https://img.shields.io/badge/Explore_Project-GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore QuickByte"/>
 </a>
 
 </div>
 
 ---
 
-### 🤖 2. Nova AI — Intelligent Chatbot
+## 📚 2. StudyPulse — Smart Study Planner
 
-An AI-powered chatbot built with Flask and the Google Gemini API, featuring a polished dark interface and responsive conversational experience. It combines a lightweight Python backend with an interactive frontend to deliver real-time AI-generated responses.
+<sub>MERN Stack | Study Management & Productivity Platform</sub>
 
-**Key Features**
+StudyPulse is a comprehensive study management platform designed to help students organize their academic routines, manage tasks, track productivity, and improve their learning experience.
 
-- 💬 **AI Conversations:** Real-time responses powered by Gemini 2.5 Flash.
+It combines full-stack development, modern state management, and containerized application deployment.
+
+<!-- Add genuine screenshots here later:
+     assets/studypulse-dashboard.png
+     assets/studypulse-timetable.png
+     assets/studypulse-analytics.png
+     assets/studypulse-study-coach.png
+-->
+
+### ✨ Key Features
+
+- 📅 **Study Planning:** Organize academic schedules, subjects, and daily tasks.
+- 📈 **Progress Tracking:** Monitor productivity and study progress.
+- ⏱️ **Pomodoro Timer:** Manage focused study sessions.
+- 🎮 **Gamification:** Encourage consistency through progress-based experiences.
+- 💬 **Real-Time Features:** Interactive application experiences with Socket.IO.
+- 🔐 **Authentication:** JWT-based authentication and bcrypt password hashing.
+- 🎨 **Modern Interface:** Responsive UI with Tailwind CSS and Framer Motion.
+- 🐳 **Containerization:** Docker and Docker Compose for application orchestration.
+
+### 🛠️ Tech Stack
+
+**Frontend:** `React` `Redux Toolkit` `Tailwind CSS` `Framer Motion`
+
+**Backend:** `Node.js` `Express.js`
+
+**Database:** `MongoDB` `Mongoose`
+
+**Authentication:** `JWT` `bcrypt`
+
+**Real-Time:** `Socket.IO`
+
+**DevOps:** `Docker` `Docker Compose` `Nginx`
+
+<div align="center">
+
+<a href="https://github.com/Sarahrj464/Smart-Study-Planner">
+<img src="https://img.shields.io/badge/Explore_Project-GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore StudyPulse"/>
+</a>
+
+</div>
+
+---
+
+## 🤖 3. Nova AI — Intelligent Chatbot
+
+<sub>AI Integration | Conversational Application</sub>
+
+Nova AI is an AI-powered chatbot built with Flask and the Google Gemini API. It combines a modern conversational interface with a Python backend to deliver dynamic AI-generated responses.
+
+<!-- Add genuine screenshots here later:
+     assets/nova-ai-chat.png
+     assets/nova-ai-conversation.png
+-->
+
+### ✨ Key Features
+
+- 💬 **AI Conversations:** Dynamic responses powered by Google Gemini API.
 - 🎨 **Modern Interface:** Dark theme with a glassmorphism-inspired design.
-- 📱 **Responsive Layout:** Designed for mobile and desktop screens.
+- 📱 **Responsive Layout:** Designed for desktop and mobile devices.
 - ✍️ **Markdown Rendering:** Displays formatted AI responses.
-- ⌨️ **Typing Indicator:** Provides feedback while the AI generates a response.
-- 🔒 **Environment-Based Configuration:** Keeps API credentials in environment variables rather than hardcoding them in application code.
+- ⌨️ **Typing Indicator:** Provides feedback during response generation.
+- 🔒 **Secure Configuration:** API credentials managed through environment variables.
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
-`HTML` `CSS` `JavaScript` `Python` `Flask` `Google Gemini API` `Marked.js`
-
-**Deployment:** Railway
+`HTML5` `CSS3` `JavaScript` `Python` `Flask` `Google Gemini API` `Marked.js`
 
 <div align="center">
 
 <a href="https://nova-ai-chatbot-production.up.railway.app">
-  <img src="https://img.shields.io/badge/Live_Demo-Try_Nova_AI-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Try Nova AI"/>
+<img src="https://img.shields.io/badge/Live_Demo-Try_Nova_AI-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Nova AI live demo"/>
 </a>
 <a href="https://github.com/Sarahrj464/nova-ai-chatbot">
-  <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="Nova AI source code"/>
+<img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="Nova AI source code"/>
 </a>
 
 </div>
 
 ---
 
-## 📚 What I'm Exploring
+## 🐍 My GitHub Contribution Journey
 
-- Building maintainable full-stack applications.
-- Improving API design, authentication, and database integration.
-- Creating better user experiences with React and TypeScript.
-- Integrating AI capabilities into practical applications.
-- Exploring computer vision with Python and OpenCV.
-- Learning deployment, containerization, and production workflows.
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sarahrj464/Sarahrj464/output/github-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
+
+</div>
+
+---
+
+## 📚 Currently Exploring
+
+I'm continuously improving my engineering skills and exploring technologies that help me build better products.
+
+- ⚛️ Advanced React patterns and TypeScript.
+- 🏗️ Scalable backend architecture and database design.
+- 🔐 Secure authentication and API development.
+- 🤖 AI integrations and LLM-powered applications.
+- ⚙️ AI agents and intelligent workflow automation.
+- 🐳 Docker, deployment, and production engineering.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sarahrj464&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sarah's GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarahrj464&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Sarahrj464&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with developers, collaborating on useful projects, and exploring opportunities in web development and AI.
+I'm always interested in connecting with developers, collaborating on meaningful projects, and exploring opportunities in full-stack development and AI integration.
 
 <div align="center">
 
+<a href="https://github.com/Sarahrj464">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
 <a href="https://www.linkedin.com/in/the-sarah-murtaza/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sarah_Murtaza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:sarah.murtaza.tech@gmail.com">
-  <img src="https://img.shields.io/badge/Email-sarah.murtaza.tech%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sarah"/>
+<img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-**🌐 Portfolio:** Currently in development — coming soon!
+<br/><br/>
+
+**🌐 Portfolio:** Currently in development.
 
 <br/>
 
-*Thanks for visiting my profile. Let's build something meaningful! 💜*
+*Building, learning, and creating meaningful digital experiences. 💜*
 
 </div>
