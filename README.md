@@ -1,23 +1,24 @@
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:00D4FF&height=230&section=header&text=Sarah%20Murtaza&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=59&descSize=18" width="100%" alt="Sarah Murtaza — MERN Stack Developer and AI Enthusiast" />
 
-# Hi, I'm Sarah Murtaza 👋
-
-### MERN Stack Developer | Full-Stack Web Developer | AI Enthusiast
-
-Building responsive web applications and intelligent digital experiences.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Frontend+%26+Backend+Developer;React+%7C+Node.js+%7C+MongoDB;AI+%26+Computer+Vision+Enthusiast;Building+Modern+Web+Applications" alt="Animated developer skills" />
 
 <br/>
 
+<a href="https://github.com/Sarahrj464">
+<img src="https://img.shields.io/badge/GitHub-Sarahrj464-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
 <a href="https://www.linkedin.com/in/the-sarah-murtaza/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 <a href="mailto:sarah.murtaza.tech@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/Sarahrj464">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+
+<br/><br/>
+
+**Turning ideas into responsive web applications and intelligent digital experiences.**
 
 </div>
 
@@ -25,17 +26,14 @@ Building responsive web applications and intelligent digital experiences.
 
 ## 👩‍💻 About Me
 
-I'm **Sarah Murtaza**, a developer passionate about building modern, responsive, and user-friendly web applications.
+Hi, I'm **Sarah Murtaza**, a developer passionate about building modern, responsive web applications and exploring AI-powered solutions.
 
-I work across frontend and backend development, from crafting intuitive interfaces to building APIs and connecting databases. I'm also interested in AI-powered applications and computer vision, and enjoy exploring how technology can solve practical problems.
-
-- 💻 Building full-stack web applications with the MERN stack.
-- 🎨 Creating responsive interfaces and thoughtful user experiences.
-- ⚙️ Developing backend APIs, authentication, and application logic.
-- 🤖 Exploring AI integration and computer vision with Python and OpenCV.
-- 🚀 Deploying projects and learning production-ready development practices.
-- 🌱 Continuously improving through hands-on projects and experimentation.
-- 🤝 Interested in collaboration, freelance projects, and meaningful software.
+- 💻 Developing full-stack applications with React, Node.js, Express, and MongoDB.
+- 🎨 Designing responsive, user-friendly interfaces with Tailwind CSS.
+- ⚙️ Building backend services and REST APIs.
+- 🤖 Exploring AI integrations and computer vision with Python and OpenCV.
+- 🚀 Bringing projects to life with Vercel and Railway.
+- 🤝 Open to collaboration, freelance projects, and learning opportunities.
 
 ---
 
