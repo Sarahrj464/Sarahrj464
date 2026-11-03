@@ -1,27 +1,17 @@
+![Sarah Murtaza — Animated GitHub Header](https://capsule-render.vercel.app/api?type=waving&color=0:4B315F,50:8B5CF6,100:00D4FF&height=320&section=header&text=Sarah%20Murtaza&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20-%20AI%20Integration%20and%20Automation&descAlignY=58&descSize=19)
+
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4B315F,50:8B5CF6,100:00D4FF&amp;height=300&amp;section=header&amp;text=Sarah%20Murtaza&amp;fontSize=65&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=MERN%20Stack%20Developer%20%7C%20AI%20Integration%20%26%20Automation&amp;descAlignY=58&amp;descSize=19"
-width="100%"
-alt="Sarah Murtaza — MERN Stack Developer | AI Integration &amp; Automation"
-/>
-
-</div>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=2800&amp;pause=900&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=MERN+Stack+Developer;Building+Full-Stack+Web+Applications;AI+Integration+%26+Workflow+Automation;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Exploring+Intelligent+AI+Agents" alt="Developer skills animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=2800&amp;pause=900&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=MERN+Stack+Developer;Building+Full-Stack+Web+Applications;AI+Integration+%26+Workflow+Automation;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Exploring+Intelligent+AI+Agents" alt="Developer skills animation"/>
 
 <br/><br/>
 
 <a href="https://github.com/Sarahrj464">
 <img src="https://img.shields.io/badge/GitHub-Sarahrj464-181717?style=for-the-badge&amp;logo=github" alt="GitHub"/>
 </a>
-
 <a href="https://www.linkedin.com/in/the-sarah-murtaza/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:sarah.murtaza.tech@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
 </a>
@@ -56,56 +46,56 @@ I enjoy turning ideas into functional products, developing backend systems, and 
 
 ### 🎨 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" alt="Frontend technologies"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&amp;perline=7" alt="Frontend technologies"/>
 </p>
 
 `HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Vite` `Tailwind CSS`
 
 ### ⚙️ Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" alt="Backend technologies"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,python&amp;perline=3" alt="Backend technologies"/>
 </p>
 
 `Node.js` `Express.js` `Python` `Flask` `REST APIs`
 
 ### 🗄️ Databases & Backend Services
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" alt="Database technologies"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase&amp;perline=3" alt="Database technologies"/>
 </p>
 
 `MongoDB` `Mongoose` `PostgreSQL` `Supabase`
 
 ### 🤖 AI & Computer Vision
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,opencv" alt="AI and computer vision"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,opencv&amp;perline=2" alt="AI and computer vision"/>
 </p>
 
 `Google Gemini API` `OpenCV` `AI API Integration` `LLM Applications`
 
 ### 🎨 UI/UX & Design
 
-<p>
-<img src="https://skillicons.dev/icons?i=figma,canva" alt="Design tools"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma&amp;perline=1" alt="Design tools"/>
 </p>
 
 `Figma` `Canva` `Responsive UI Design` `Interface Prototyping`
 
 ### 🚀 DevOps & Deployment
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,vercel,railway,github" alt="Deployment and DevOps"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,vercel,github&amp;perline=3" alt="Deployment and DevOps"/>
 </p>
 
-`Docker` `Docker Compose` `Vercel` `Railway`
+`Docker` `Docker Compose` `Nginx` `Vercel` `Railway`
 
 ### 💻 Development Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" alt="Development tools"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&amp;perline=5" alt="Development tools"/>
 </p>
 
 `Git` `GitHub` `VS Code` `Postman` `npm` `C++`
@@ -123,9 +113,9 @@ A selection of applications demonstrating my experience in full-stack developmen
 A full-stack cafeteria management platform designed to streamline university food service operations. It connects cashier transactions, kitchen order processing, student meal plans, inventory, and administrative reporting in one system.
 
 <!-- Add genuine screenshots here later:
-     assets/quickbyte-cashier.png
-     assets/quickbyte-kitchen.png
-     assets/quickbyte-admin.png
+assets/quickbyte-cashier.png
+assets/quickbyte-kitchen.png
+assets/quickbyte-admin.png
 -->
 
 ### ✨ Key Features
@@ -145,7 +135,7 @@ A full-stack cafeteria management platform designed to streamline university foo
 <div align="center">
 
 <a href="https://github.com/Sarahrj464/university-cafeteria-pos">
-<img src="https://img.shields.io/badge/Explore_Project-GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore QuickByte"/>
+<img src="https://img.shields.io/badge/Explore_Project-GitHub-8B5CF6?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore QuickByte"/>
 </a>
 
 </div>
@@ -161,10 +151,10 @@ StudyPulse is a comprehensive study management platform designed to help student
 It combines full-stack development, modern state management, and containerized application deployment.
 
 <!-- Add genuine screenshots here later:
-     assets/studypulse-dashboard.png
-     assets/studypulse-timetable.png
-     assets/studypulse-analytics.png
-     assets/studypulse-study-coach.png
+assets/studypulse-dashboard.png
+assets/studypulse-timetable.png
+assets/studypulse-analytics.png
+assets/studypulse-study-coach.png
 -->
 
 ### ✨ Key Features
@@ -195,7 +185,7 @@ It combines full-stack development, modern state management, and containerized a
 <div align="center">
 
 <a href="https://github.com/Sarahrj464/Smart-Study-Planner">
-<img src="https://img.shields.io/badge/Explore_Project-GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore StudyPulse"/>
+<img src="https://img.shields.io/badge/Explore_Project-GitHub-8B5CF6?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore StudyPulse"/>
 </a>
 
 </div>
@@ -209,8 +199,8 @@ It combines full-stack development, modern state management, and containerized a
 Nova AI is an AI-powered chatbot built with Flask and the Google Gemini API. It combines a modern conversational interface with a Python backend to deliver dynamic AI-generated responses.
 
 <!-- Add genuine screenshots here later:
-     assets/nova-ai-chat.png
-     assets/nova-ai-conversation.png
+assets/nova-ai-chat.png
+assets/nova-ai-conversation.png
 -->
 
 ### ✨ Key Features
@@ -229,10 +219,10 @@ Nova AI is an AI-powered chatbot built with Flask and the Google Gemini API. It 
 <div align="center">
 
 <a href="https://nova-ai-chatbot-production.up.railway.app">
-<img src="https://img.shields.io/badge/Live_Demo-Try_Nova_AI-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Nova AI live demo"/>
+<img src="https://img.shields.io/badge/Live_Demo-Try_Nova_AI-8B5CF6?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Nova AI live demo"/>
 </a>
 <a href="https://github.com/Sarahrj464/nova-ai-chatbot">
-<img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="Nova AI source code"/>
+<img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&amp;logo=github" alt="Nova AI source code"/>
 </a>
 
 </div>
@@ -267,23 +257,23 @@ I'm continuously improving my engineering skills and exploring technologies that
 <div align="center">
 
 <img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=Sarahrj464&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;icon_color=00D4FF&amp;text_color=C9D1D9"
-  alt="Sarah's GitHub statistics"
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=Sarahrj464&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;icon_color=00D4FF&amp;text_color=C9D1D9"
+alt="Sarah's GitHub statistics"
 />
 
 <img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarahrj464&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;text_color=C9D1D9"
-  alt="Most used programming languages"
+width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarahrj464&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;text_color=C9D1D9"
+alt="Most used programming languages"
 />
 
 <br/><br/>
 
 <img
-  width="70%"
-  src="https://streak-stats.demolab.com?user=Sarahrj464&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=8B5CF6&amp;fire=00D4FF&amp;currStreakLabel=8B5CF6"
-  alt="GitHub contribution streak"
+width="70%"
+src="https://streak-stats.demolab.com?user=Sarahrj464&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=8B5CF6&amp;fire=00D4FF&amp;currStreakLabel=8B5CF6"
+alt="GitHub contribution streak"
 />
 
 </div>
@@ -297,15 +287,15 @@ I'm always interested in connecting with developers, collaborating on meaningful
 <div align="center">
 
 <a href="https://github.com/Sarahrj464">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/the-sarah-murtaza/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:sarah.murtaza.tech@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
